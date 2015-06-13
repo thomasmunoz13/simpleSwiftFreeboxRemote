@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  simpleFreeboxRemote
+//  simpleFreeboxRemoteController
 //
-//  Created by Thomas Munoz on 13/06/2015.
+//  Created by Thomas Munoz on 14/06/2015.
 //  Copyright (c) 2015 Thomas Munoz. All rights reserved.
 //
 

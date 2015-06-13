@@ -9,7 +9,7 @@
         <!--View Controller-->
         <scene sceneID="ufC-wZ-h7g">
             <objects>
-                <viewController id="vXZ-lx-hvc" customClass="ViewController" customModule="_SWAG_Controller" sceneMemberID="viewController">
+                <viewController id="vXZ-lx-hvc" customClass="ViewController" customModule="simpleFreeboxRemoteController" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="jyV-Pf-zRb"/>
                         <viewControllerLayoutGuide type="bottom" id="2fi-mo-0CV"/>
@@ -128,7 +128,7 @@
         <!--View Controller-->
         <scene sceneID="aYo-g3-i2f">
             <objects>
-                <viewController storyboardIdentifier="remote_control" useStoryboardIdentifierAsRestorationIdentifier="YES" id="KZ1-Nl-RBn" customClass="ViewController" customModule="_SWAG_Controller" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="remote_control" useStoryboardIdentifierAsRestorationIdentifier="YES" id="KZ1-Nl-RBn" customClass="ViewController" customModule="simpleFreeboxRemoteController" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="Rk7-Vt-GGQ"/>
                         <viewControllerLayoutGuide type="bottom" id="UkN-2W-dyM"/>
@@ -403,7 +403,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="k6C-gv-1Wx" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="953.5" y="536.5"/>
+            <point key="canvasLocation" x="953.5" y="526.5"/>
         </scene>
     </scenes>
     <resources>
