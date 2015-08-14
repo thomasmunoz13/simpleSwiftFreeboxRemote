@@ -1,4 +1,4 @@
-# simpleFreeboxRemote
+# simpleSwiftFreeboxRemote
 It's a simple iOS remote for the [Freebox Player](http://www.free.fr/adsl/freebox-revolution.html), using the HTTP API (which is slowly being deprecated but I just wanted to test Swift with a little project) for channel changing only.
 
 *Feel free to use this code for your own application, but keep in mind that I'm a Swift beginner so it's at your own risks.
